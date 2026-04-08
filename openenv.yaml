@@ -1,0 +1,9 @@
+name: CRM_Cleaner
+version: 1.0.0
+tasks:
+  - id: clean_001
+    difficulty: easy
+  - id: clean_002
+    difficulty: medium
+  - id: clean_003
+    difficulty: hard
